@@ -1,0 +1,64 @@
+8
+
+dir
+45
+http://localhost/svn/TA/TA/trunk/TA/src/dbcheck/GUI
+http://localhost/svn/TA
+
+
+
+2007-04-30T18:14:02.312297Z
+45
+amudi
+
+
+svn:special svn:externals svn:needs-lock
+
+MainFrm.java
+file
+
+
+
+
+2007-04-30T18:13:37.000000Z
+581cc0a9de20ae855bde6b45f75b7e35
+2007-04-30T18:14:02.312297Z
+45
+amudi
+
+MainFrm.form
+file
+
+
+
+
+2007-04-30T18:13:34.000000Z
+4afe85b350e84eaadb1427397931c0bf
+2007-04-30T18:14:02.312297Z
+45
+amudi
+
+EditorFrm.java
+file
+
+
+
+
+2007-04-30T18:13:37.000000Z
+877d78ad47ecde64eaa79b3a41223e37
+2007-04-30T18:14:02.312297Z
+45
+amudi
+
+EditorFrm.form
+file
+
+
+
+
+2007-04-30T18:13:37.000000Z
+f73ab132e5eee0ccdaa3931d2ae2ac6d
+2007-04-30T18:14:02.312297Z
+45
+amudi
+

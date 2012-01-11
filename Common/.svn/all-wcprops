@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/TA/!svn/ver/41/TA/trunk/TA/Common
+END
+dbconfig.conf
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/TA/!svn/ver/19/TA/trunk/TA/Common/dbconfig.conf
+END
+gcquery.cons
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TA/!svn/ver/33/TA/trunk/TA/Common/gcquery.cons
+END
+metadatalist.conf
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/TA/!svn/ver/24/TA/trunk/TA/Common/metadatalist.conf
+END
+gcparam.cons
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/TA/!svn/ver/34/TA/trunk/TA/Common/gcparam.cons
+END
